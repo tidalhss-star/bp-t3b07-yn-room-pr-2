@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b07-yn-room-pr-2.pages.dev/sitemap.xml
+Sitemap: https://yeonnam-room-review.namanavi.com/sitemap.xml
